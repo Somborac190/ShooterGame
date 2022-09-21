@@ -1,0 +1,11 @@
+D:\C#\Shooter Game\bin\Debug\Shooter Game.exe.config
+D:\C#\Shooter Game\bin\Debug\Shooter Game.exe
+D:\C#\Shooter Game\bin\Debug\Shooter Game.pdb
+D:\C#\Shooter Game\obj\Debug\Shooter Game.csproj.AssemblyReference.cache
+D:\C#\Shooter Game\obj\Debug\Shooter Game.csproj.SuggestedBindingRedirects.cache
+D:\C#\Shooter Game\obj\Debug\Shooter_Game.Form1.resources
+D:\C#\Shooter Game\obj\Debug\Shooter_Game.Properties.Resources.resources
+D:\C#\Shooter Game\obj\Debug\Shooter Game.csproj.GenerateResource.cache
+D:\C#\Shooter Game\obj\Debug\Shooter Game.csproj.CoreCompileInputs.cache
+D:\C#\Shooter Game\obj\Debug\Shooter Game.exe
+D:\C#\Shooter Game\obj\Debug\Shooter Game.pdb
